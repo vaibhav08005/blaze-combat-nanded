@@ -1,6 +1,5 @@
 # Logs
-# Local heavy files
-public/hero_video.mp4
+
 logs
 *.log
 npm-debug.log*
